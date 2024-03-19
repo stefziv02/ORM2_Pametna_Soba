@@ -1,0 +1,3 @@
+1. wifi, zwave, da li pominjati zbog emulacije, model (praktikum v2)
+2. za sta bi koristili tcp udp kad imamo mqtt
+3. cloud ili lan only
